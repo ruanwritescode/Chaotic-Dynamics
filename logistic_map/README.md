@@ -4,4 +4,4 @@ Use the sliders below the figures to alter the parameters in real time.
 
 The buttons under each plot labeled "Change Right/Left Plot" will allow you to view various other plot forms with the same data.
 
-Final Next/Previous X allows you to view the coordinates of individual points on the left plot.
+Finally Next/Previous X allows you to view the coordinates of individual points on the left plot.
