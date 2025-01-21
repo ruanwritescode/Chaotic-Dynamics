@@ -1,1 +1,1 @@
-This is a nice little pyplot to visualize logistic maps for x_{n+1} = R * x_n ( 1 - x_n )}
+Here you will find all of the code written by Ruan Abarbanel for the CU Boulder Chaotic Dynamics course CSCI 4446
